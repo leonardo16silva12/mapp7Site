@@ -24,3 +24,105 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+
+ion-title{
+    font-family: 'Roboto', sans-serif;
+}
+
+ion-label{
+    font-family: 'Roboto', sans-serif;
+}
+
+ion-text {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logoToolbar {
+    position: flex;
+    margin: 0 auto;
+    margin-bottom: 0;
+    width: 60px;
+    }
+    
+    .tituloToolbar {
+      position: flex;
+      margin-left: 20px;
+      font-size: 30px;
+      text-align: center !important;
+    }
+
+    .tituloToolbarPage {
+        position: flex;
+        margin-left: 20px;
+        font-size: 25px;
+      }
+
+    .logoMenu {
+        max-width: 125px;
+        max-height: 75px;
+        width: auto;
+        height: auto;
+        margin: 0 auto;
+        margin-left: 75px;
+    }
+
+    .logoHome {
+        max-width: 200px;
+        max-height: 150px;
+        width: auto;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .textH {
+        font-family: 'Roboto', sans-serif;
+        display: flex;
+        color: #e02041;
+        font-size: 25px;
+        font-weight: bolder;
+    }
+
+    .optionT {
+        font-family: 'Roboto', sans-serif;
+        display: flex;
+        font-size: 20px;
+        font-weight: bolder;
+    }
+
+    .photoM {
+        max-width: 300px;
+        max-height: 300px;
+        width: auto;
+        height: auto;
+        margin: 0 auto;
+        border: 5px solid #e02041;
+        border-radius: 10px;
+    }
+    
+    .textM {
+        font-family: 'Roboto', sans-serif;
+        text-align: center !important;
+        font-size: 23px;
+    }
+
+    .alignItens {
+        margin: 0 auto !important;
+    }
+
+    .textHome {
+        font-family: 'Roboto', sans-serif;
+        text-align: center !important;
+        font-size: 40px;
+        color: #e02041;
+        font-weight: bolder;
+    }
+
+    .textHome2 {
+        font-family: 'Roboto', sans-serif;
+        text-align: center !important;
+        font-size: 30px;
+        color: #e02041;
+        font-weight: bolder;
+    }
+    
