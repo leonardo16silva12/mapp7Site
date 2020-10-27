@@ -64,7 +64,7 @@ ion-text {
         width: auto;
         height: auto;
         margin: 0 auto;
-        margin-left: 75px;
+        margin-left: 73px;
     }
 
     .logoHome {
@@ -99,6 +99,27 @@ ion-text {
         border: 5px solid #e02041;
         border-radius: 10px;
     }
+
+    .photoMechanic {
+        max-width: 300px;
+        max-height: 325px;
+        width: 300px;
+        height: 325px;
+        margin: 0 auto;
+        border: 5px solid #e02041;
+        border-radius: 10px;
+    }
+
+    
+    .photoMechanic2 {
+        max-width: 300px;
+        max-height: 300px;
+        width: 300px;
+        height: 250px;
+        margin: 0 auto;
+        border: 5px solid #e02041;
+        border-radius: 10px;
+    }
     
     .textM {
         font-family: 'Roboto', sans-serif;
@@ -124,5 +145,12 @@ ion-text {
         font-size: 30px;
         color: #e02041;
         font-weight: bolder;
+    }
+
+    .photoGPLAY {
+        max-width: 300px;
+        max-height: 300px;
+        width: auto;
+        height: auto;
     }
     
